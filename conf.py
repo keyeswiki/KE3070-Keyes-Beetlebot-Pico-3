@@ -34,7 +34,6 @@ extensions = ['myst_parser','sphinx_copybutton']
 
 source_suffix = {
     '.rst': 'restructuredtext',
-    '.txt': 'markdown',
     '.md': 'markdown',
 }
 
